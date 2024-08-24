@@ -1,6 +1,8 @@
 
 #  Python-SQL Ecommerce-Analysis
 
+##### Note: For output open python+sql_ecommerce (Target).ipynb
+
 ## 📝Problem Statement
 
 This project focuses on analysing of an Ecommerce store using publicly available Target Sales Dataset. The dataset includes various data points - 
