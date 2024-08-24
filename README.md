@@ -1,8 +1,6 @@
 
 #  Python-SQL Ecommerce-Analysis
 
-#### Dataset Link - https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
-
 ## 📝Problem Statement
 
 This project focuses on analysing of an Ecommerce store using publicly available Target Sales Dataset. The dataset includes various data points - 
@@ -16,6 +14,8 @@ This project focuses on analysing of an Ecommerce store using publicly available
 - Sellers 
 
 covering data from year 2016-2018.
+
+#### Dataset Link - https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
 
 ## Questions
 
