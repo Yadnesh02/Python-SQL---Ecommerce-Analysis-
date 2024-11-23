@@ -1,7 +1,7 @@
 
 #  Python-SQL Ecommerce-Analysis
 
-##### Note: For output open python+sql_ecommerce (Target).ipynb
+##### For output open python+sql_ecommerce (Target).ipynb
 
 ## 📝Problem Statement
 
