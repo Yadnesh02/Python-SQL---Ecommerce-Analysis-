@@ -5,7 +5,7 @@
 
 ## 📝Problem Statement
 
-This project focuses on analysing of an Ecommerce store using publicly available Target Sales Dataset. The dataset includes various data points - 
+This project focuses on analysis of an Ecommerce store using publicly available Target Sales Dataset. The dataset includes various data points - 
 
 - Customer
 - Geolocation
